@@ -25,4 +25,4 @@ class Solution(object):
 if __name__ == '__main__':
 
     solution = Solution()
-    print(solution.nearestPalindromic("1234"))
+    print(solution.nearestPalindromic("1"))
