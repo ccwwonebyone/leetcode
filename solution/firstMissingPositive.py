@@ -22,4 +22,4 @@ class Solution(object):
 if __name__ == '__main__':
 
     solution = Solution()
-    print(solution.firstMissingPositive([7,8,9,11,12])
+    print(solution.firstMissingPositive([7,8,9,11,12]))
