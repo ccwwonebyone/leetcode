@@ -16,3 +16,9 @@ class Solution:
                     maxi = temp
                 temp = 0
         return maxi if temp < maxi else temp
+
+
+if __name__ == '__main__':
+
+    solution = Solution()
+    print(solution.findMaxConsecutiveOnes([0,1,1,2,2,2,3,4,3,200]))
